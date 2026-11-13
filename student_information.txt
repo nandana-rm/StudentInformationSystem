@@ -6,3 +6,11 @@ Gender : Male
 Email : arun@example.com
 Mobile Number : 9876543210
 Address : Bengaluru, Karnataka
+
+VERSION 2: PARENTS DETAILS
+Father's Name : Raj Kumar
+Father's Occupation : Business
+Father's Mobile : 9876543211
+Mother's Name : Lakshmi
+Mother's Occupation : Teacher
+Mother's Mobile : 9876543212
