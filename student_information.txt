@@ -4,7 +4,7 @@ Register Number : 246001
 Date of Birth : 15-06-2005
 Gender : Male
 Email : arun@example.com
-Mobile Number : 9876543210
+Mobile Number : 9888888888
 Address : Bengaluru, Karnataka
 
 VERSION 2: PARENTS DETAILS
